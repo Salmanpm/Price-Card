@@ -1,0 +1,119 @@
+body{
+    background-color: whitesmoke;
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+
+.side-image{
+    width: 180px;
+    height: 180px;
+    background-color: white;
+    box-shadow: 0 0 20px #ccc;
+
+}
+
+.side-image img{
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+    position: relative;
+    top: 15%;
+    left: 30%;
+}
+.side-image h4{
+    text-align: center;
+    padding-top: 6px;
+}
+
+h4 span{
+    color: #3d3db2;
+    
+}
+
+.side-image p{
+    font-size: 0.85rem;
+    text-align: center;
+}
+
+/* side buttons */
+
+.side-contents{
+    width: 180px;
+    height: 535px;
+    background-color: white;
+    margin-top: 5px;
+    box-shadow: 0 0 20px #ccc;
+}
+
+.btn1 button {
+    height: 46px;
+    width: 90%;
+    margin-top: 19px;
+    border-radius: 10px;
+    background-color: skyblue;
+    border: none;
+    font-size: 18px;
+    margin-left: 5px;
+}
+
+ i{
+    color: #3d3db2;
+}
+
+.btn2 button{
+    height: 46px;
+    width: 90%;
+    margin-top: 19px;
+    border-radius: 10px;
+    background-color: skyblue;
+    border: none;
+    font-size: 18px;
+    margin-left: 5px;
+}
+
+.btn3 button{
+    height: 46px;
+    width: 90%;
+    margin-top: 19px;
+    border-radius: 10px;
+    background-color: skyblue;
+    border: none;
+    font-size: 18px;
+    margin-left: 5px;
+}
+
+.btn4 button{
+    height: 46px;
+    width: 90%;
+    margin-top: 19px;
+    border-radius: 10px;
+    background-color: skyblue;
+    border: none;
+    font-size: 18px;
+    margin-left: 5px;
+}
+
+.btn5 button{
+    height: 46px;
+    width: 90%;
+    margin-top: 19px;
+    border-radius: 10px;
+    background-color: skyblue;
+    border: none;
+    font-size: 18px;
+    margin-left: 5px;
+}
+
+.items a {
+    color: #3d3db2;
+    text-decoration: none;
+    display: flex;
+    align-items: end;
+    justify-content: center;
+    height: 200px;
+}
+
+.fix{
+    position: fixed;
+}

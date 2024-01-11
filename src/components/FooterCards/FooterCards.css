@@ -1,0 +1,74 @@
+.free-card {
+    height: 220px;
+    width: 550px;
+    background-color: white;
+    position: absolute;
+    top: 67%;
+    left: 17%;
+    border-radius: 10px;
+    box-shadow: 0 0 20px #ccc;
+}
+
+.bt button {
+    border: none;
+    margin-top: 20px;
+    border-radius: 9px;
+    background-color: #a2e140;
+    margin-left: 15px;
+    height: 25px;
+}
+.ft-head {
+    margin-left: 10px;
+    font-size: 1.2rem;
+}
+.ft-para {
+    width: 60%;
+    margin-left: 10px;
+    font-size: 1rem;
+}
+
+.ft-bt button {
+    height: 35px;
+    width: 110px;
+    border: none;
+    border-radius: 10px;
+    background-color: #a2e140;
+    margin-left: 12px;
+}
+
+/* Enterprice plan */
+
+.enterprise-plan {
+    height: 220px;
+    width: 550px;
+    background-color: white;
+    position: absolute;
+    top: 67%;
+    left: 60%;
+    border-radius: 10px;
+    box-shadow: 0 0 20px #ccc;
+}
+
+.ft-para2 {
+    width: 70%;
+    margin-left: 10px;
+    font-size: 1rem;
+}
+
+.bt-enterprise button {
+    border: none;
+    margin-top: 20px;
+    border-radius: 9px;
+    background-color: rgb(19, 96, 126);
+    margin-left: 15px;
+    height: 25px;
+}
+
+.ft-bt-enterprise button {
+    height: 35px;
+    width: 110px;
+    border: none;
+    border-radius: 10px;
+    background-color: rgb(19, 96, 126);
+    margin-left: 12px;
+}
